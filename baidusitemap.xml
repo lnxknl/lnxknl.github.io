@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://lnxknl.github.io/2022/embrace_life/</loc>
+    <lastmod>2022-07-03</lastmod>
+  </url>
+  <url>
     <loc>https://lnxknl.github.io/2022/aritcle_generate_ky/</loc>
     <lastmod>2022-07-03</lastmod>
   </url>
   <url>
     <loc>https://lnxknl.github.io/2022/assemly/</loc>
-    <lastmod>2022-07-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lnxknl.github.io/2022/embrace_life/</loc>
     <lastmod>2022-07-03</lastmod>
   </url>
   <url>
@@ -37,15 +37,19 @@
     <lastmod>2022-07-03</lastmod>
   </url>
   <url>
+    <loc>https://lnxknl.github.io/post2/helloworld-for-githubpages.html</loc>
+    <lastmod>2022-07-03</lastmod>
+  </url>
+  <url>
     <loc>https://lnxknl.github.io/post2/html-meta.html</loc>
     <lastmod>2022-07-03</lastmod>
   </url>
   <url>
-    <loc>https://lnxknl.github.io/post2/mysql-tutorial.html</loc>
+    <loc>https://lnxknl.github.io/post2/judgment-variable-type.html</loc>
     <lastmod>2022-07-03</lastmod>
   </url>
   <url>
-    <loc>https://lnxknl.github.io/post2/judgment-variable-type.html</loc>
+    <loc>https://lnxknl.github.io/post2/mysql-tutorial.html</loc>
     <lastmod>2022-07-03</lastmod>
   </url>
   <url>
@@ -62,10 +66,6 @@
   </url>
   <url>
     <loc>https://lnxknl.github.io/post2/the-front-end-javascript-specification.html</loc>
-    <lastmod>2022-07-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lnxknl.github.io/post2/helloworld-for-githubpages.html</loc>
     <lastmod>2022-07-03</lastmod>
   </url>
   <url>
