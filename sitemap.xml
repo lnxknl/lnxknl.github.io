@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://lnxknl.github.io/post2/javascript-best-practices-tips-and-tricks-to-level-up-your-code.html</loc>
+    <loc>https://lnxknl.github.io/post2/git-command-backup.html</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://lnxknl.github.io/post2/hexo-your-blog.html</loc>
+    <loc>https://lnxknl.github.io/post2/javascript-best-practices-tips-and-tricks-to-level-up-your-code.html</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://lnxknl.github.io/post2/helloworld-for-githubpages.html</loc>
+    <loc>https://lnxknl.github.io/post2/hexo-your-blog.html</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://lnxknl.github.io/post2/git-command-backup.html</loc>
+    <loc>https://lnxknl.github.io/post2/helloworld-for-githubpages.html</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://lnxknl.github.io/post2/add-valine-comments-to-your-blog.html</loc>
+    <loc>https://lnxknl.github.io/post2/add-a-lock-to-your-website.html</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://lnxknl.github.io/post2/add-a-lock-to-your-website.html</loc>
+    <loc>https://lnxknl.github.io/post2/add-valine-comments-to-your-blog.html</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -292,7 +292,7 @@
 
   <url>
     <loc>https://lnxknl.github.io/</loc>
-    <lastmod>2022-07-03</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -300,14 +300,14 @@
   
   <url>
     <loc>https://lnxknl.github.io/tags/%E6%B1%87%E7%BC%96/</loc>
-    <lastmod>2022-07-03</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lnxknl.github.io/tags/life/</loc>
-    <lastmod>2022-07-03</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
